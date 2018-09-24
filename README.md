@@ -28,7 +28,7 @@ A **contact us** page is also available in which a user submit a query or a sugg
 
 
 ## How to Run
-Create a new database in MySQL. Run ../master/projectdatabase.sql in that databse. Open ../master/model/DBHelper.php and change $DATABASE_NAME = 'projectdatabase'; to $DATABASE_NAME = '<your database name>';. Then set your MySQL port, user name and password at the end of this file in getMySqliConnection function. Now put view, model and controller folders to your Apache root directory. Then run "localhost:<Apache port number>//view/Home.php".
+Create a new database in MySQL. Run ../master/projectdatabase.sql in that databse. Open ../master/model/DBHelper.php and change $DATABASE_NAME = 'projectdatabase'; to $DATABASE_NAME = '{your database name}';. Then set your MySQL port, user name and password at the end of this file in getMySqliConnection function. Now put view, model and controller folders to your Apache root directory. Then run "localhost:{Apache port number}//view/Home.php".
 
 
 ## Contact
