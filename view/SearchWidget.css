@@ -1,0 +1,20 @@
+input#t-min, input#t-max { width: 100px; }
+input#t-min { margin-left: 3px; margin-right: 4px; }
+input#t-max { margin-left: 8px; }
+select#type-filter, select#order-by { width: 130px; }
+.sr {
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 5px;
+    border-left: white;
+    border-right: white;
+    border-top: white;
+    cursor: pointer;
+}
+.sr:hover { background-color: #DCDCDC; }
+input#search-hra-s { margin-top: 15px; }
+input#search-d-s, input#search-d-s1, input#search-hra-s, #ext, #ext1, .list-d, .list-d1, .sr { border-radius: 50px; }
+#ext, #ext1 { padding: 0; }
+span.mystar { margin-left: 2px; color: #FFD700; }
+a.attr:visited { color: darkblue }
+a.attr:hover { text-decoration: underline }
