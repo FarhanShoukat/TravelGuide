@@ -5,6 +5,7 @@ TravelGuide is a **web app** that allows its users to search attractions, hotels
 
 ## Tools and APIs Used
 * JetBrains PhpStorm
+* JetBrains WebStorm
 * Mobirise
 * Bootstrap
 * XAMPP (Apache Server + MySQL)
@@ -20,6 +21,10 @@ A user can also **Rate** restaurants and Hotels. Moreover, a user can also see o
 A user can also **create a new business** i.e. hotel or restaurant. A user can own a business or can just create it without an owner. A business can have description, contact number, email and address. A user becomes a business user when user owns a business. A business user can do everything plus manage their business. Business user can add new deals, offers etc. to their business.
 
 A **contact us** page is also available in which a user submit a query or a suggestion.
+
+The UI was mostly made using Mobirise and WebStorm. So, the UI is **responsive**.
+
+This website uses **MVC Architecture**. All parts i.e. model, view and controller are present in seperate folders
 
 
 ## Requirements
