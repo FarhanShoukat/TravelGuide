@@ -27,6 +27,24 @@ The UI was mostly made using Mobirise and WebStorm. So, the UI is **responsive**
 This website uses **MVC Architecture**. All parts i.e. model, view and controller are present in seperate folders
 
 
+## Interefaces
+
+### Home and Log In/Sign Up
+<p align="middle">
+  <img src="../master/Screenshots/1.png"/>
+</p>
+
+### Hotel/Restaurant Page and Rating dialog
+<p align="middle">
+  <img src="../master/Screenshots/2.png"/>
+</p>
+
+### Search and Contact Us
+<p align="middle">
+  <img src="../master/Screenshots/3.png"/>
+</p>
+
+
 ## Requirements
 * Apache
 * MySQL
