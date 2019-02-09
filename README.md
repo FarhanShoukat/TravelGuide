@@ -55,7 +55,7 @@ Create a new database in MySQL. Run ../master/projectdatabase.sql in that databs
 
 
 ## Contact
-You can get in touch with me on my LinkedIn Profile: [Farhan Shoukat](https://www.linkedin.com/in/farhan-shoukat-782542167/)
+You can get in touch with me on my LinkedIn Profile: [Farhan Shoukat](https://www.linkedin.com/in/farhan-shoukat/)
 
 
 ## License
